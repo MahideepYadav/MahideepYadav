@@ -72,10 +72,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahideep&show_icons=true&theme=radical&hide_title=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahideep&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MahideepYadav&show_icons=true&theme=radical&hide_title=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahideepYadav&theme=radical" height="150"/>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahideep&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahideepYadav&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
